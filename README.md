@@ -1,5 +1,5 @@
 # Introduction to JavaScript and DOM Manipulation
-
+ 
 ## Objectives
 
 Write basic JavaScript functions.
